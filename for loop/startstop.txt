@@ -1,0 +1,21 @@
+Begin
+number start,stop,i
+print("Enter start")
+input start
+print("Enter stop")
+input stop
+if(start<stop)
+{
+for(i=start;i<stop;i++)
+{
+print(start)
+}
+}
+else
+{
+for(i=start;i>stop;i--)
+{
+print(start)
+}
+}
+end
