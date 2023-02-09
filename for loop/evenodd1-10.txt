@@ -1,0 +1,22 @@
+even 10-1 numbers
+
+begin
+number i=1;
+for(i=10;i<=1;i--)
+if i%2==0
+{
+print(i)
+}
+end
+
+
+odd 1-10 numbers
+
+begin
+number i=1;
+for(i=1;i<=10;i++)
+if i%2==!0
+{
+print(i)
+}
+end
