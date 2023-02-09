@@ -1,0 +1,20 @@
+begin
+number num1,num2,num3
+print(Enter num1,num2,num3)
+input num1
+input num2
+input num3
+if num1>num2&&
+   num1>num3
+{
+print(num1 is big)
+}
+else if num2>num3
+{
+print(num2 is big)
+}
+else
+{
+print(num3 is big)
+}
+end

@@ -1,0 +1,25 @@
+begin
+string name,email,college,city
+number marks,mobile
+begin
+string name,email,college,city
+number mo
+input name
+input email
+input college
+input city
+input marks
+input mobile
+print("student name")
+print("email")
+print("college")
+print("city")
+print("marks")
+print("mobile")
+print("student name",name:)
+print("email",email:)
+print("college",college:)
+print("city",city:)
+print("marks",marks:)
+print("mobile",mobile:)
+end

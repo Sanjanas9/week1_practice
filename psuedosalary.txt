@@ -1,0 +1,12 @@
+accept basic salary and find gross salary
+
+begin
+read the salary
+number basic salary,hra,da,gs
+print("enter the salary"
+input basic salary
+hra=(basic*67)/100
+da=(basic*89)/100
+gs= basic salary+hra+da
+print("gs:",gs)
+end

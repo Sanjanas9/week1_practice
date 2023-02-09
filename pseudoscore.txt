@@ -1,0 +1,7 @@
+begin
+number num1,num2,num3
+print(enter the marks,internal,external)
+input num1,num2,num3
+num1+num2+num3==total
+if total==50
+print(student is pass)
